@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IntegralTest
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=testName\ value\ e
+comment2.target=java.lang.String\ formatOutput(java.lang.String,\ java.lang.String,\ java.lang.AssertionError)
+comment3.params=
+comment3.target=void\ testDummy()
+numComments=4
